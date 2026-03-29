@@ -53,14 +53,6 @@ class 我的简介:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30"/>
 </div>
 
-### 🤖 人工智能 & 数据科学
-<div align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="30"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="30"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" height="30"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="30"/>
-</div>
-
 ## 📊 GitHub 统计
 
 <div align="center">
@@ -87,14 +79,14 @@ class 我的简介:
 ## 💭 个性签名
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="随机名言"/>
+ ✨ "每个人心里都有一团火，路过的人只看到烟。
+ 但是总有一个人，总有那么一个人能看到这团火，然后走过来，陪我一起。
+ 我带着我的热情，我的冷漠，我的狂暴，我的温和，以及对爱情毫无理由的相信，走得上气不接下气。
+ 我结结巴巴地对他说：你叫什么名字。
+ 从你叫什么名字开始，后来，有了一切。
 </div>
 
-> ✨ "每个人心里都有一团火，路过的人只看到烟。
-> 但是总有一个人，总有那么一个人能看到这团火，然后走过来，陪我一起。
-> 我带着我的热情，我的冷漠，我的狂暴，我的温和，以及对爱情毫无理由的相信，走得上气不接下气。
-> 我结结巴巴地对他说：你叫什么名字。
-> 从你叫什么名字开始，后来，有了一切。"
+
 
 ## 🌈 寻找志同道合的你
 
@@ -107,7 +99,7 @@ class 我的简介:
 🌟 **期待遇见**：
 - 同样热爱技术和创新的人
 - 喜欢诗词和天文的浪漫灵魂
-- 愿意一起做有趣项目的小伙伴
+- 愿意一起做有趣项目的朋友
 - 能够互相学习和成长的伙伴
 
 ---
