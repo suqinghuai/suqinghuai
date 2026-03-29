@@ -4,9 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=电子信息工程专业在读生;Python+%26+C语言爱好者;AI+探索者;诗词+天文爱好者)](https://git.io/typing-svg)
 
-![GitHub followers](https://img.shields.io/github/followers/你的用户名?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/你的用户名?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=你的用户名&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/suqinghuai?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/suqinghuai?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=suqinghuai&color=blueviolet)
 
 </div>
 
@@ -64,11 +64,6 @@ class 我的简介:
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suqinghuai&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub统计" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suqinghuai&layout=compact&theme=radical&hide_border=true" alt="最常用语言" width="48%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=suqinghuai&theme=react-dark&hide_border=true" alt="GitHub活动图" width="100%" />
 </div>
 
@@ -89,13 +84,17 @@ class 我的简介:
   </a>
 </div>
 
-## 💭 人生格言
+## 💭 个性签名
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="随机名言"/>
 </div>
 
-> ✨ "代码如诗，算法如歌。在技术的海洋中探索，在星空下思考人生。"
+> ✨ "每个人心里都有一团火，路过的人只看到烟。
+> 但是总有一个人，总有那么一个人能看到这团火，然后走过来，陪我一起。
+> 我带着我的热情，我的冷漠，我的狂暴，我的温和，以及对爱情毫无理由的相信，走得上气不接下气。
+> 我结结巴巴地对他说：你叫什么名字。
+> 从你叫什么名字开始，后来，有了一切。"
 
 ## 🌈 寻找志同道合的你
 
