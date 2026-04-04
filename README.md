@@ -35,6 +35,16 @@ class 我的简介:
         return "如果你也热爱技术、诗词天文，欢迎联系我！"
 ```
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Cross-Platform+Developer;Building+Apps+with+Flutter+%26+Electron;Exploring+Native+%26+Backend+Tech;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suqinghuai/suqinghuai/output/github-snake.svg" alt="Contribution Snake" />
+</p>
+
 ## 🛠️ 技术栈
 
 ### 💻 编程语言
