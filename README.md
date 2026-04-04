@@ -36,7 +36,11 @@ class 我的简介:
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Cross-Platform+Developer;Building+Apps+with+Flutter+%26+Electron;Exploring+Native+%26+Backend+Tech;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suqinghuai/suqinghuai/snake-graphics/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suqinghuai/suqinghuai/snake-graphics/snake.svg" />
+    <img src="https://raw.githubusercontent.com/suqinghuai/suqinghuai/snake-graphics/snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
 </p>
 
 ---
