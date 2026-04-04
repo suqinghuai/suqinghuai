@@ -45,9 +45,6 @@ class 我的简介:
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suqinghuai/suqinghuai/output/github-snake.svg" alt="Contribution Snake" />
-</p>
 
 ## 🛠️ 技术栈
 
