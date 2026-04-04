@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake SVG
-        uses: Platane/snk@master
+        uses: Platane/snk@v3.0.0 # 锁定稳定版本
         with:
           github_user_name: suqinghuai
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg
+          # 只生成一个文件（避免旧版本报错），如需深色模式再增加
+          svg_out_path: dist/snake.svg
+
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v4
         with:
