@@ -29,7 +29,7 @@ class 我的简介:
             "💡 Vibe Coding",
             "📚 持续学习中..."
         ]
-        self.status = "单身，正在寻找有趣的灵魂"
+        self.status = "恋爱中..."
 
     def 寻找伙伴(self):
         return "如果你也热爱技术、诗词天文，欢迎联系我！"
@@ -105,7 +105,7 @@ class 我的简介:
   <img src="https://media.giphy.com/media/L8K023O2rmZji/giphy.gif" alt="寻找另一半" width="200"/>
 </div>
 
-💝 **状态**：单身，正在寻找有趣的灵魂
+💝 **状态**：恋爱中
 
 🌟 **期待遇见**：
 - 同样热爱技术和创新的人
